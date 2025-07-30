@@ -7,6 +7,11 @@
   color: var(--p-content-color);
 }
 
+@utility bg-menu {
+  background: var(--p-menu-background);
+  color: var(--p-menu-color);
+}
+
 @utility bg-emphasis {
   background: var(--p-content-hover-background);
   color: var(--p-content-hover-color);
